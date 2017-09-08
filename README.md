@@ -1,6 +1,6 @@
 # Resources
 - This is a list of resources that I like or want to check out (in other words, I have too many tabs open in my browser and need to close them + I want to keep track of stuff I like).
-- We will see what topics emerge as resources are collected, but any topic of interest to me could be included.
+
 
 
 ### Coding Practice
